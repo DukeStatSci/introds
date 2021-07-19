@@ -1,0 +1,6 @@
+# Computing {#computing}
+
+Something about computing resources...
+
+-   How to access
+-   What to do if they don't work / troubleshooting

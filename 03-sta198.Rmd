@@ -1,0 +1,8 @@
+# (PART) Sections {.unnumbered}
+
+# STA 198 {#sta198}
+
+-   Course name
+-   Instructor
+-   TAs
+-   Link to course website

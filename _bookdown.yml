@@ -1,0 +1,27 @@
+book_filename: "introds"
+delete_merged_file: true
+language:
+  ui:
+    chapter_name: "Chapter "
+
+rmd_files: [
+  "index.Rmd",
+  "01-overview.Rmd",
+  "01-support.Rmd",
+  "01-computing.Rmd",
+  
+  "02-hello-world.Rmd",
+  "02-exploring-data.Rmd",
+  "02-ethics.Rmd",
+  "02-making-rigorous-conclusions.Rmd",
+  "02-looking-further.Rmd",
+  
+  "03-sta198.Rmd",
+  "03-sta199-1.Rmd",
+  "03-sta199-2.Rmd",
+  "03-sta199-3.Rmd"
+  
+  ]
+
+new_session: yes
+before_chapter_script: "_common.R"
