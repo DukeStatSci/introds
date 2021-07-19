@@ -1,4 +1,4 @@
-# (PART) Course videos {.unnumbered .unnumbered}
+# (PART) Videos {.unnumbered}
 
 # Hello world {#hello-world .unnumbered}
 
