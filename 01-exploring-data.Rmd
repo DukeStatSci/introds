@@ -1,4 +1,4 @@
-# Exploring data {#exploring-data}
+# Exploring data {#exploring-data .unnumbered}
 
 This unit focuses on data visualization and data wrangling.
 Specifically we cover fundamentals of data and data visualization, confounding variables, and Simpson's paradox as well as the concept of tidy data, data import, data cleaning, and data curation.
@@ -440,7 +440,6 @@ R4DS :: [Chp 7 - Exploratory data analysis](https://r4ds.had.co.nz/exploratory-d
 
 ::: {.source}
 [Source](https://github.com/rstudio-education/datascience-box/tree/master/course-materials/slides/u2-d19-top-250-imdb)
-
 :::
 
 ::: {.video}

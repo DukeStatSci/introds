@@ -1,4 +1,4 @@
-# STA 199 - Section 2 {#sta199-2}
+# STA 199 - Section 2 {#sta199-2 .unnumbered}
 
 -   Course name
 -   Instructor

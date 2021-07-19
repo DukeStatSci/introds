@@ -1,6 +1,6 @@
-# (PART) Course materials {.unnumbered}
+# (PART) Course videos {.unnumbered .unnumbered}
 
-# Hello world {#hello-world}
+# Hello world {#hello-world .unnumbered}
 
 Summary of what happens during the first week of classes.
 

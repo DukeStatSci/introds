@@ -1,0 +1,8 @@
+# (PART) Computing {.unnumbered .unnumbered}
+
+# Access {#computing .unnumbered}
+
+Something about how to access computing resources...
+
+Maybe some videos here too?
+Or link to Week 1 videos again.

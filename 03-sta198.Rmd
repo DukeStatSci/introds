@@ -1,6 +1,6 @@
 # (PART) Sections {.unnumbered}
 
-# STA 198 {#sta198}
+# STA 198 {#sta198 .unnumbered}
 
 -   Course name
 -   Instructor

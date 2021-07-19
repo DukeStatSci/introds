@@ -1,7 +1,0 @@
-# Support {#support}
-
-Something about course support.
-
--   discussion forums
--   schedule of office hours with TAs...
--   R TA? ...

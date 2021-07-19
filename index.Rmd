@@ -15,13 +15,13 @@ link-citations: yes
 
 # Welcome {.unnumbered}
 
-<img src="introds.png" class="cover" width="240" height="276"/>Some words about the intro courses at Duke and why this website exists...
+<img src="introds.png" class="cover" width="240" height="276"/>Some words about the intro courses at Duke and why this website exists... Some overview about how to use the cetralized resources...
 
 ## License {.unnumbered}
 
 <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"><img src="https://licensebuttons.net/l/by-sa/4.0/88x31.png" alt="Creative Commons License" style="border-width:0"/></a><br />This online work is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International</a>.
 Visit [here](https://github.com/dukestatsciintrods/blob/master/LICENSE.md) for more information about the license.
 
-## Acknowledements {.unnumbered}
+## Acknowledgements {.unnumbered}
 
 This is all from Data Science box and some wording around that...

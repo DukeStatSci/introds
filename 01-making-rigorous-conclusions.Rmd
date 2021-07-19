@@ -1,4 +1,4 @@
-# Making rigorous conclusions {#making-rigorous-conclusions}
+# Making rigorous conclusions {#making-rigorous-conclusions .unnumbered}
 
 In this part we introduce modelling and statistical inference for making data-based conclusions.
 We discuss building, interpreting, and selecting models, visualizing interaction effects, and prediction and model validation.
