@@ -4,4 +4,4 @@
 
 Centralized resources for Duke Statistical Science Introductory Data Science courses.
 
-At <https://introds-duke.netlify.app/> for now.
+At <https://introds-duke.netlify.app/> for now, will be moved to <https://introds.org/> before the semester begins.
