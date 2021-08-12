@@ -4,5 +4,5 @@
 
 -   Introduction to Global Health Data Science (STA 198 / GLHLTH 298)
 -   Prof. Amy H. Herring
--   TA's: Jackie Du, Eli Feder, and Phuc Nguyen
+-   TA's: Jackie Du, Eli Feder, Phuc Nguyen, and Chris Yang
 -   [STA 198/GLHLTH 298 Website](https://sta198f2021.github.io/website/)
