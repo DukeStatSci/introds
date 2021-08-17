@@ -1,6 +1,6 @@
 # STA 199 - Section 3 {#sta199-3 .unnumbered}
 
--   Course name
--   Instructor
--   TAs
--   Link to course website
+-   Introduction to Data Science and Statistical Thinking
+-   Prof. Maria Tackett
+-   TAs: Meredith Brown, Carson Garcia, Rob Kravec, Shirley Mathur, Manny Mokel, Margaret Reed, Camilla Yue
+-   [STA 199 - Section 3 Website](https://sta199-fa21-003.netlify.app)
