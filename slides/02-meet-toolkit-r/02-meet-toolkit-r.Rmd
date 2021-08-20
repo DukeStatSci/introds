@@ -2,7 +2,7 @@
 title: "Meet the toolkit:<br>programming"
 subtitle: "<br><br> Introduction to Data Science"
 author: ""
-date: "<br> Prof. Maria Tackett"
+date: ""
 output:
   xaringan::moon_reader:
     css: ["xaringan-themer.css", "slides.css"]
