@@ -8,4 +8,4 @@ In Fall 2021, STA 198 is taught by [Prof. Amy H. Herring](https://scholars.duke.
 
 The TAs for the course are Jackie Du, Eli Feder, Phuc Nguyen, and Chris Yang.
 
-Go to the [STA 198/GLHLTH 298 course website](https://sta198f2021.github.io/website/) for course specific information.
+Go to the [**STA 198/GLHLTH 298 course website**](https://sta198f2021.github.io/website/) for course specific information.

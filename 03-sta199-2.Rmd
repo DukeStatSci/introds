@@ -6,6 +6,6 @@ In Fall 2021, this section of STA 199 is taught by [Prof. Jacob Smith](https://s
 
 The TAs for the course are Alison Reynolds, Olivier Binette, Heather Mathews, Larry Chen, Mariana Izon, Miller Jacob, Amber Potter, Jasmine Wen, and Jerry (Mutian) Xin.
 
-Go to the [STA 199 - Section 2 course website]() for course specific information.
+Go to the [**STA 199 - Section 2 course website**]() for course specific information.
 
 **TO DO:** Add course website link

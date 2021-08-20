@@ -6,4 +6,4 @@ In Fall 2021, this section of STA 199 is taught by [Prof. Maria Tackett](https:/
 
 The TAs for the course are Meredith Brown, Carson Garcia, Rob Kravec, Shirley Mathur, Manny Mokel, Margaret Reed, and Camilla Yue.
 
-Go to the [STA 199 - Section 3 course website](https://sta199-fa21-003.netlify.app) for course specific information.
+Go to the [**STA 199 - Section 3 course website**](https://sta199-fa21-003.netlify.app) for course specific information.
