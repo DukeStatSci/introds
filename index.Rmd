@@ -24,4 +24,4 @@ Visit [here](https://github.com/dukestatsciintrods/blob/master/LICENSE.md) for m
 
 ## Acknowledgements {.unnumbered}
 
-This is all from Data Science box and some wording around that...
+Much of these materials have been adapted from [Data Science in a Box](https://datasciencebox.org/), by Mine Çetinkaya-Rundel under the Creative Commons Attribution Share Alike 4.0 International.
