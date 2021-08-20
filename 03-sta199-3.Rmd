@@ -1,6 +1,6 @@
 # STA 199 - Section 3 {#sta199-3 .unnumbered}
 
-**Introduction to Data Science and Statistical Thinking (STA 199)**
+**Introduction to Data Science and Statistical Thinking (STA 199-003)**
 
 In Fall 2021, this section of STA 199 is taught by [Prof. Maria Tackett](https://www.mariatackett.net/).
 
