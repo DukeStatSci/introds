@@ -22,11 +22,11 @@ Welcome to introduction to data science!
 **Unit 1 - Deck 2: Meet the toolkit - Programming**
 
 ::: {.slides}
-[Slides](https://rstudio-education.github.io/datascience-box/course-materials/slides/u1-d02-toolkit-r/u1-d02-toolkit-r.html#1)
+[Slides](https://dukestatsci.github.io/introds/slides/02-meet-toolkit-r/02-meet-toolkit-r.html#1)
 :::
 
 ::: {.video}
-[Video](https://youtu.be/mTAZLFcpnLI)
+[Video](https://youtu.be/Q2QN1RpvLq8)
 :::
 
 ::: {.reading}
