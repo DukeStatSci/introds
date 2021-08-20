@@ -4,7 +4,7 @@ In this part we introduce modelling and statistical inference for making data-ba
 We discuss building, interpreting, and selecting models, visualizing interaction effects, and prediction and model validation.
 Statistical inference is introduced from a simulation based perspective, and the Central Limit Theorem is discussed very briefly to lay the foundation for future coursework in statistics.
 
-## Modelling data
+## Modelling data {.unnumbered}
 
 ::: {.slide-deck}
 **Unit 4 - Deck 1: The language of models**
@@ -74,7 +74,7 @@ IMS :: [Chp 8 - Linear regression with multiple predictors](https://openintro-im
 :::
 :::
 
-## Classification and model building
+## Classification and model building {.unnumbered}
 
 ::: {.slide-deck}
 **Unit 4 - Deck 6: Logistic regression**
@@ -124,7 +124,7 @@ tidymodels :: [Preprocess your data with recipes](https://www.tidymodels.org/sta
 :::
 :::
 
-## Model validation
+## Model validation {.unnumbered}
 
 ::: {.slide-deck}
 **Unit 4 - Deck 9: Cross validation**
@@ -142,7 +142,7 @@ tidymodels :: [Evaluate your model with resampling](https://www.tidymodels.org/s
 :::
 :::
 
-## Uncertainty quantification
+## Uncertainty quantification {.unnumbered}
 
 ::: {.slide-deck}
 **Unit 4 - Deck 10: Quantifying uncertainty**

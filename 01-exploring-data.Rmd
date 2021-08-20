@@ -5,7 +5,7 @@ Specifically we cover fundamentals of data and data visualization, confounding v
 We end the unit with web scraping and introduce the idea of iteration in preparation for the next unit.
 Also in this unit students are introduced to the toolkit: R, RStudio, R Markdown, Git, and GitHub.
 
-## Visualising data
+## Visualising data {.unnumbered}
 
 ::: {.slide-deck}
 **Unit 2 - Deck 1: Data and visualisation**
@@ -65,7 +65,7 @@ IMS :: [Chp 5 - Exploring categorical data](https://openintro-ims.netlify.app/ex
 :::
 :::
 
-## Wrangling and tidying data
+## Wrangling and tidying data {.unnumbered}
 
 ::: {.slide-deck}
 **Unit 2 - Deck 5: Tidy data**
@@ -143,7 +143,7 @@ R4DS :: [Chp 12 - Tidy data](https://r4ds.had.co.nz/tidy-data.html)
 :::
 :::
 
-## Importing and recoding data
+## Importing and recoding data {.unnumbered}
 
 ::: {.slide-deck}
 **Unit 2 - Deck 10: Data types**
@@ -213,7 +213,7 @@ R4DS :: [Sec 16.1 - 16.3 - Dates and times](https://r4ds.had.co.nz/dates-and-tim
 :::
 :::
 
-## Communicating data science results effectively
+## Communicating data science results effectively {.unnumbered}
 
 ::: {.slide-deck}
 **Unit 2 - Deck 14: Tips for effective data visualization**
@@ -275,7 +275,7 @@ R4DS :: [Chp 7 - Exploratory data analysis](https://r4ds.had.co.nz/exploratory-d
 :::
 :::
 
-## Web scraping and programming
+## Web scraping and programming {.unnumbered}
 
 ::: {.slide-deck}
 **Unit 2 - Deck 18: Web scraping**
