@@ -4,22 +4,11 @@
 
 Summary of what happens during the first week of classes.
 
-::: {.rstudio-cloud}
-The RStudio Cloud workspace for Data Science Course in a Box project is [here](https://rstudio.cloud/spaces/1655/join?access_code=5rdjusfIYF5iI0Gum2vNsBDLdtdnIEELBkf2EivK).
-You can join the workspace and play around with the sample application exercises.
-:::
-
-## Slides, videos, and application exercises
-
 ::: {.slide-deck}
 **Unit 1 - Deck 1: Welcome**
 
 ::: {.slides}
 [Slides](https://rstudio-education.github.io/datascience-box/course-materials/slides/u1-d01-welcome/u1-d01-welcome.html#1)
-:::
-
-::: {.source}
-[Source](https://github.com/rstudio-education/datascience-box/tree/master/course-materials/slides/u1-d01-welcome)
 :::
 
 ::: {.video}
@@ -32,10 +21,6 @@ You can join the workspace and play around with the sample application exercises
 
 ::: {.slides}
 [Slides](https://rstudio-education.github.io/datascience-box/course-materials/slides/u1-d02-toolkit-r/u1-d02-toolkit-r.html#1)
-:::
-
-::: {.source}
-[Source](https://github.com/rstudio-education/datascience-box/tree/master/course-materials/slides/u1-d02-toolkit-r)
 :::
 
 ::: {.video}
@@ -53,10 +38,6 @@ You can join the workspace and play around with the sample application exercises
 
 ::: {.slides}
 [Slides](https://rstudio-education.github.io/datascience-box/course-materials/slides/u1-d03-toolkit-git/u1-d03-toolkit-git.html#1)
-:::
-
-::: {.source}
-[Source](https://github.com/rstudio-education/datascience-box/tree/master/course-materials/slides/u1-d03-toolkit-git)
 :::
 
 ::: {.video}

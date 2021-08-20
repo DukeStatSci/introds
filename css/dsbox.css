@@ -42,19 +42,6 @@
   background-image: url("slide-deck.png");
 }
 
-.source {
-  padding: 0em 1em 0em 2em;
-  position: relative;
-  font-size: 0.9em;
-}
-.source:before {
-  content: "\f1c9";
-  font-family: FontAwesome;
-  color: #a8a8a8;
-  left: 5px;
-  position: absolute;
-}
-
 .guest-lecture {
   padding: 1em 1em 1em 4em;
   margin-bottom: 10px;
@@ -77,52 +64,6 @@
   position: absolute;
 }
 
-
-.lab{
-  padding: 1em 1em 1em 4em;
-  margin-bottom: 10px;
-  margin-left: 10px;
-  border: 1pt solid #FFD748;
-  background: #ffffff 5px center/3em no-repeat;
-  background-image: url("lab.png");
-}
-
-.homework{
-  padding: 1em 1em 1em 4em;
-  margin-bottom: 10px;
-  margin-left: 10px;
-  border: 1pt solid #F26BAA;
-  background: #ffffff 5px center/3em no-repeat;
-  background-image: url("hw.png");
-}
-
-.instructions {
-  padding: 0em 1em 0em 2em;
-  position: relative;
-  font-size: 0.9em;
-}
-.instructions:before {
-  content: "\f15c";
-  font-family: FontAwesome;
-  color: #444B54;
-  left: 5px;
-  position: absolute;
-}
-
-.starter {
-  padding: 0em 1em 0em 2em;
-  position: relative;
-  font-size: 0.9em;
-}
-.starter:before {
-  content: "\f09b";
-  font-family: FontAwesome;
-  color: #444B54;
-  left: 5px;
-  position: absolute;
-}
-
-
 .tutorial{
   padding: 1em 1em 1em 4em;
   margin-bottom: 10px;
@@ -130,32 +71,6 @@
   border: 1pt solid #d8d8d8;
   background: #ffffff 5px center/3em no-repeat;
   background-image: url("tutorial.png");
-}
-
-
-.exam{
-  padding: 1em 1em 1em 4em;
-  margin-bottom: 10px;
-  margin-left: 10px;
-  border: 1pt solid #d8d8d8;
-  background: #ffffff 5px center/3em no-repeat;
-  background-image: url("exam.png");
-}
-
-
-.rstudio-cloud {
-  padding: 1em 1em 1em 4em;
-  margin-bottom: 5px;
-  margin-left: 5px;
-  background: #ffffff 5px center/3em no-repeat;
-  background-image: url("cloud.png");
-}
-.rstudio-cloud:before {
-  content: "RStudio Cloud: ";
-  clear: right;
-  display: block;
-  font-weight: bold;
-  color: #A7D5E8;
 }
 
 /* overwrite bs4_book style */
