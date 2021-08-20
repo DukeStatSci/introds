@@ -1,10 +1,10 @@
-# Making rigorous conclusions {#making-rigorous-conclusions .unnumbered}
+# Making rigorous conclusions {#making-rigorous-conclusions}
 
 In this part we introduce modelling and statistical inference for making data-based conclusions.
 We discuss building, interpreting, and selecting models, visualizing interaction effects, and prediction and model validation.
 Statistical inference is introduced from a simulation based perspective, and the Central Limit Theorem is discussed very briefly to lay the foundation for future coursework in statistics.
 
-## Modelling data {.unnumbered}
+## Modelling data
 
 ::: {.slide-deck}
 **Unit 4 - Deck 1: The language of models**
@@ -74,7 +74,7 @@ IMS :: [Chp 8 - Linear regression with multiple predictors](https://openintro-im
 :::
 :::
 
-## Classification and model building {.unnumbered}
+## Classification and model building
 
 ::: {.slide-deck}
 **Unit 4 - Deck 6: Logistic regression**
@@ -124,7 +124,7 @@ tidymodels :: [Preprocess your data with recipes](https://www.tidymodels.org/sta
 :::
 :::
 
-## Model validation {.unnumbered}
+## Model validation
 
 ::: {.slide-deck}
 **Unit 4 - Deck 9: Cross validation**
@@ -142,7 +142,7 @@ tidymodels :: [Evaluate your model with resampling](https://www.tidymodels.org/s
 :::
 :::
 
-## Uncertainty quantification {.unnumbered}
+## Uncertainty quantification
 
 ::: {.slide-deck}
 **Unit 4 - Deck 10: Quantifying uncertainty**

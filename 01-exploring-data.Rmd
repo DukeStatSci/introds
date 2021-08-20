@@ -1,11 +1,11 @@
-# Exploring data {#exploring-data .unnumbered}
+# Exploring data {#exploring-data}
 
 This unit focuses on data visualization and data wrangling.
 Specifically we cover fundamentals of data and data visualization, confounding variables, and Simpson's paradox as well as the concept of tidy data, data import, data cleaning, and data curation.
 We end the unit with web scraping and introduce the idea of iteration in preparation for the next unit.
 Also in this unit students are introduced to the toolkit: R, RStudio, R Markdown, Git, and GitHub.
 
-## Visualising data {.unnumbered}
+## Visualising data
 
 ::: {.slide-deck}
 **Unit 2 - Deck 1: Data and visualisation**
@@ -65,7 +65,7 @@ IMS :: [Chp 5 - Exploring categorical data](https://openintro-ims.netlify.app/ex
 :::
 :::
 
-## Wrangling and tidying data {.unnumbered}
+## Wrangling and tidying data
 
 ::: {.slide-deck}
 **Unit 2 - Deck 5: Tidy data**
@@ -143,7 +143,7 @@ R4DS :: [Chp 12 - Tidy data](https://r4ds.had.co.nz/tidy-data.html)
 :::
 :::
 
-## Importing and recoding data {.unnumbered}
+## Importing and recoding data
 
 ::: {.slide-deck}
 **Unit 2 - Deck 10: Data types**
@@ -213,7 +213,7 @@ R4DS :: [Sec 16.1 - 16.3 - Dates and times](https://r4ds.had.co.nz/dates-and-tim
 :::
 :::
 
-## Communicating data science results effectively {.unnumbered}
+## Communicating data science results effectively
 
 ::: {.slide-deck}
 **Unit 2 - Deck 14: Tips for effective data visualization**
@@ -275,7 +275,7 @@ R4DS :: [Chp 7 - Exploratory data analysis](https://r4ds.had.co.nz/exploratory-d
 :::
 :::
 
-## Web scraping and programming {.unnumbered}
+## Web scraping and programming
 
 ::: {.slide-deck}
 **Unit 2 - Deck 18: Web scraping**

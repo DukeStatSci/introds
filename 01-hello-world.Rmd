@@ -1,8 +1,10 @@
 # (PART) Videos {.unnumbered}
 
-# Hello world {#hello-world .unnumbered}
+# Hello world {#hello-world}
 
-Summary of what happens during the first week of classes.
+Welcome to introduction to data science!
+
+**TO DO: Replace the videos on this page!**
 
 ::: {.slide-deck}
 **Unit 1 - Deck 1: Welcome**
