@@ -15,11 +15,13 @@ link-citations: yes
 
 # Welcome {.unnumbered}
 
-<img src="introds.png" class="cover" width="240" height="276"/>Welcome to the centralized resources website for the Introduction to Data Science courses offered by the Department of Statistical Science at Duke University.
+<img src="introds.png" class="cover" width="240" height="240"/>Welcome to the centralized resources website for the Introduction to Data Science courses offered by the Department of Statistical Science at Duke University.
 This website hosts the supplementary course videos (and the slide decks used in the videos) as well as information on access to computational resources for the courses.
 
 In Fall 2021 we're teaching one section of STA 198 - Introduction to Global Health Data Science and three sections of STA 199 - Introduction to Data Science and Statistical Thinking.
 For information on specific sections of the courses, click on the link for your section on the left.
+
+<br><br><br>
 
 ## License {.unnumbered}
 
