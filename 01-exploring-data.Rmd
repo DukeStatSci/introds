@@ -90,18 +90,6 @@ IMS :: [Sec 2.2 - Exploring categorical data](https://openintro-ims.netlify.app/
 :::
 :::
 
-::: {.application-exercise}
-**StarWars + Dataviz**
-
-::: {.source}
-[Source](https://github.com/rstudio-education/datascience-box/tree/master/course-materials/application-exercises/ae-03-starwars-dataviz/starwars.Rmd)
-:::
-
-::: {.video}
-[Video](https://youtu.be/3UaLPtCKkXQ)
-:::
-:::
-
 ### Wrangling and tidying data
 
 ::: {.slide-deck}
@@ -200,18 +188,6 @@ R4DS :: [Chp 12 - Tidy data](https://r4ds.had.co.nz/tidy-data.html)
 :::
 :::
 
-::: {.application-exercise}
-**Hotels + Data wrangling**
-
-::: {.source}
-[Source](https://github.com/rstudio-education/datascience-box/tree/master/course-materials/application-exercises/ae-04-hotels-datawrangling/hotels-datawrangling.Rmd)
-:::
-
-::: {.video}
-[Video](https://youtu.be/BXlOd4EYQrI)
-:::
-:::
-
 ### Importing and recoding data
 
 ::: {.slide-deck}
@@ -290,38 +266,6 @@ R4DS :: [Sec 16.1 - 16.3 - Dates and times](https://r4ds.had.co.nz/dates-and-tim
 :::
 :::
 
-::: {.application-exercise}
-**Hotels + Data types**
-
-::: {.source}
-[Source](https://github.com/rstudio-education/datascience-box/tree/master/course-materials/application-exercises/ae-05-hotels-datatypes/hotels-forcats.Rmd)
-:::
-
-::: {.source}
-[Source](https://github.com/rstudio-education/datascience-box/tree/master/course-materials/application-exercises/ae-05-hotels-datatypes/type-coercion.Rmd)
-:::
-
-::: {.video}
-[Video](https://youtu.be/sByadx_cgDc)
-:::
-:::
-
-::: {.application-exercise}
-**Nobels + Sales + Data import**
-
-::: {.source}
-[Source](https://github.com/rstudio-education/datascience-box/tree/master/course-materials/application-exercises/ae-06-nobels-sales-dataimport/nobels-csv.Rmd)
-:::
-
-::: {.source}
-[Source](https://github.com/rstudio-education/datascience-box/tree/master/course-materials/application-exercises/ae-06-nobels-sales-dataimport/sales-excel.Rmd)
-:::
-
-::: {.video}
-[Video](https://youtu.be/2vA6qizYnM8)
-:::
-:::
-
 ### Communicating data science results effectively
 
 ::: {.slide-deck}
@@ -341,18 +285,6 @@ R4DS :: [Sec 16.1 - 16.3 - Dates and times](https://r4ds.had.co.nz/dates-and-tim
 
 ::: {.reading}
 IMS :: [Sec 2.3 - Effective data visualisation](https://openintro-ims.netlify.app/summarizing-visualizing-data.html#effective-data-visualization)
-:::
-:::
-
-::: {.application-exercise}
-**Brexit + Telling stories with dataviz**
-
-::: {.source}
-[Source](https://github.com/rstudio-education/datascience-box/tree/master/course-materials/application-exercises/ae-07-brexit-story-dataviz/brexit.Rmd)
-:::
-
-::: {.video}
-[Video](https://youtu.be/aPqnkcn13kQ)
 :::
 :::
 
@@ -460,18 +392,6 @@ R4DS :: [Chp 7 - Exploratory data analysis](https://r4ds.had.co.nz/exploratory-d
 
 ::: {.video}
 [Video](https://youtu.be/LONRJHMvSyU)
-:::
-:::
-
-::: {.application-exercise}
-**IMDB + Web scraping**
-
-::: {.source}
-[Source](https://github.com/rstudio-education/datascience-box/tree/master/course-materials/application-exercises/ae-08-imdb-webscraping)
-:::
-
-::: {.video}
-[Video](https://youtu.be/PetWV5g1Xsc)
 :::
 :::
 
