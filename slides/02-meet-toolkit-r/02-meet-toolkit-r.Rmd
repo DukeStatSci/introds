@@ -1,7 +1,7 @@
 ---
 title: "Meet the toolkit:<br>programming"
 subtitle: "<br><br> Introduction to Data Science"
-author: ""
+author: "introds.org"
 date: ""
 output:
   xaringan::moon_reader:
