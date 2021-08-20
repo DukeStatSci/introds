@@ -35,8 +35,7 @@ R4DS :: [Chp 3 - Data visualization](https://r4ds.had.co.nz/data-visualisation.h
 :::
 :::
 
-::: {.slide-deck}
-**Unit 2 - Deck 3: Visualising numerical data**
+::: {.slide-deck} **Unit 2 - Deck 3: Visualising numerical data**
 
 ::: {.slides}
 [Slides](https://rstudio-education.github.io/datascience-box/course-materials/slides/u2-d03-viz-num/u2-d03-viz-num.html#1)
@@ -47,8 +46,7 @@ R4DS :: [Chp 3 - Data visualization](https://r4ds.had.co.nz/data-visualisation.h
 :::
 
 ::: {.reading}
-IMS :: [Sec 2.1 - Exploring numerical data](https://openintro-ims.netlify.app/summarizing-visualizing-data.html#numerical-data)
-:::
+IMS :: [Chp 4 - Exploring numerical data](https://openintro-ims.netlify.app/explore-numerical.html):::
 :::
 
 ::: {.slide-deck}
@@ -63,7 +61,7 @@ IMS :: [Sec 2.1 - Exploring numerical data](https://openintro-ims.netlify.app/su
 :::
 
 ::: {.reading}
-IMS :: [Sec 2.2 - Exploring categorical data](https://openintro-ims.netlify.app/summarizing-visualizing-data.html#categorical-data)
+IMS :: [Chp 5 - Exploring categorical data](https://openintro-ims.netlify.app/explore-categorical.html)
 :::
 :::
 
@@ -229,7 +227,7 @@ R4DS :: [Sec 16.1 - 16.3 - Dates and times](https://r4ds.had.co.nz/dates-and-tim
 :::
 
 ::: {.reading}
-IMS :: [Sec 2.3 - Effective data visualisation](https://openintro-ims.netlify.app/summarizing-visualizing-data.html#effective-data-visualization)
+IMS :: [Chp 6 - Applications: Explore](https://openintro-ims.netlify.app/explore-applications.html)
 :::
 :::
 
@@ -245,8 +243,7 @@ IMS :: [Sec 2.3 - Effective data visualisation](https://openintro-ims.netlify.ap
 :::
 
 ::: {.reading}
--   IMS :: [Sec 1.3 - Sampling principles and strategies](https://openintro-ims.netlify.app/getting-started-with-data.html#sampling-principles-strategies)
--   IMS :: [Sec 1.4 - Experiments](https://openintro-ims.netlify.app/getting-started-with-data.html#experiments)
+IMS :: [Chp 2 - Study design](https://openintro-ims.netlify.app/data-design.html)
 :::
 :::
 

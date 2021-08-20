@@ -29,7 +29,7 @@ Summary of what happens during the first week of classes.
 
 ::: {.reading}
 -   R4DS :: [Chp 2 - Introduction](https://r4ds.had.co.nz/explore-intro.html)
--   IMS :: [Sec 1.1 & 1.2 - Case study & Data basics](https://openintro-ims.netlify.app/getting-started-with-data.html#basic-stents-strokes)
+-   IMS :: [Chp 1 - Hello data](https://openintro-ims.netlify.app/data-hello.html)
 :::
 :::
 
