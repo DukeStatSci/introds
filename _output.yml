@@ -1,11 +1,11 @@
 bookdown::bs4_book:
-  css: [css/dsbox.css, css/fontawesome/css/all.css]
+  css: [css/introds.css, css/fontawesome/css/all.css]
   theme:
-    primary: "#012169"
-  repo: https://github.com/rstudio-education/datascience-box/
+    primary: "#00539B"
+  repo: https://github.com/dukestatsci/introds
 
 bookdown::gitbook:
-  css: [css/style.css, css/dsbox.css, css/fontawesome/css/all.css]
+  css: [css/style.css, css/introds.css, css/fontawesome/css/all.css]
   config:
     toc:
       collapse: section
@@ -14,5 +14,5 @@ bookdown::gitbook:
       after: |
         <li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
     edit:
-      link: https://github.com/openintrostat/ims/edit/master/%s
+      link: https://github.com/dukestatsci/introds/edit/master/%s
       text: "Edit"
