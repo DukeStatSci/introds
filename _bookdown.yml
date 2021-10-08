@@ -19,7 +19,9 @@ rmd_files: [
   "03-sta198.Rmd",
   "03-sta199-1.Rmd",
   "03-sta199-2.Rmd",
-  "03-sta199-3.Rmd"
+  "03-sta199-3.Rmd",
+  
+  "04-tutorials.Rmd"
   
   ]
 

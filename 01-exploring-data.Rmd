@@ -35,7 +35,8 @@ R4DS :: [Chp 3 - Data visualization](https://r4ds.had.co.nz/data-visualisation.h
 :::
 :::
 
-::: {.slide-deck} **Unit 2 - Deck 3: Visualising numerical data**
+::: {.slide-deck}
+**Unit 2 - Deck 3: Visualising numerical data**
 
 ::: {.slides}
 [Slides](https://rstudio-education.github.io/datascience-box/course-materials/slides/u2-d03-viz-num/u2-d03-viz-num.html#1)
@@ -47,6 +48,7 @@ R4DS :: [Chp 3 - Data visualization](https://r4ds.had.co.nz/data-visualisation.h
 
 ::: {.reading}
 IMS :: [Chp 4 - Exploring numerical data](https://openintro-ims.netlify.app/explore-numerical.html):::
+:::
 :::
 
 ::: {.slide-deck}
