@@ -18,15 +18,9 @@
     },
     "bookdown": {
       "Package": "bookdown",
-      "Version": "0.22.5",
-      "Source": "GitHub",
-      "RemoteType": "github",
-      "RemoteHost": "api.github.com",
-      "RemoteRepo": "bookdown",
-      "RemoteUsername": "maelle",
-      "RemoteRef": "latex-notes",
-      "RemoteSha": "f66511ce906fe2dadf1a01514b2a1055ebd76675",
-      "Hash": "124f38a1faeded61009f89356fa4069b"
+      "Version": "0.24",
+      "Source": "Repository",
+      "Repository": "CRAN"
     },
     "digest": {
       "Package": "digest",
