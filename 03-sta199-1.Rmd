@@ -2,8 +2,10 @@
 
 **Introduction to Data Science and Statistical Thinking (STA 199-001)**
 
-In Fall 2021, this section of STA 199 is taught by Prof. Alexander Fisher.
+In Spring 2022, this section of STA 199 is taught by [Prof. Jacob Smith](https://scholars.duke.edu/person/jacob.f.smith).
 
-The TAs for the course are Zheyuan (Zoey) Liu, Michael Sarkis, Christine (Yueming) Shen, Mariana Izon, Sara Mehta, and Blossom Mojekwu.
+The TAs for the course are Alison Reynolds, Olivier Binette, Heather Mathews, Larry Chen, Mariana Izon, Miller Jacob, Amber Potter, Jasmine Wen, and Jerry (Mutian) Xin.
 
-Go to the [**STA 199 - Section 1 course website**](https://sta199-f21-001.netlify.app/) for course specific information.
+Go to the [**STA 199 - Section 1 course website**]() for course specific information.
+
+**TO DO:** Add course website link
