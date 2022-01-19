@@ -4,8 +4,6 @@
 
 In Spring 2022, this section of STA 199 is taught by [Prof. Jacob Smith](https://scholars.duke.edu/person/jacob.f.smith).
 
-The TAs for the course are Alison Reynolds, Olivier Binette, Heather Mathews, Larry Chen, Mariana Izon, Miller Jacob, Amber Potter, Jasmine Wen, and Jerry (Mutian) Xin.
+The TAs for the course are Blossom Mojekwu, Larry Chen, Carly Grossfield, Jasmine Wen, Amber Potter, Alison Reynolds, Kevin Li, Jacob Miller, and Kartik Chamarti.
 
-Go to the [**STA 199 - Section 1 course website**]() for course specific information.
-
-**TO DO:** Add course website link
+Go to the [**STA 199 - Section 1 course website**](https://sta199-spring2022.netlify.app/) for course specific information.
