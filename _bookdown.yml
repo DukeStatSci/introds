@@ -16,10 +16,10 @@ rmd_files: [
   "02-access.Rmd",
   "02-troubleshooting.Rmd",
   
-  "03-sta198.Rmd",
   "03-sta199-1.Rmd",
   "03-sta199-2.Rmd",
   "03-sta199-3.Rmd",
+  "past-semesters.Rmd",
   
   "04-tutorials.Rmd"
   
