@@ -1,3 +1,5 @@
+# (PART) Sections {.unnumbered}
+
 # STA 199 - Section 1 {#sta199-1 .unnumbered}
 
 **Introduction to Data Science and Statistical Thinking (STA 199-001)**
