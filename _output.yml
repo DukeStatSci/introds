@@ -3,16 +3,3 @@ bookdown::bs4_book:
   theme:
     primary: "#00539B"
   repo: https://github.com/dukestatsci/introds
-
-bookdown::gitbook:
-  css: [css/style.css, css/introds.css, css/fontawesome/css/all.css]
-  config:
-    toc:
-      collapse: section
-      before: |
-        <li><a href="./">Data Science in a Box</a></li>
-      after: |
-        <li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
-    edit:
-      link: https://github.com/dukestatsci/introds/edit/master/%s
-      text: "Edit"
